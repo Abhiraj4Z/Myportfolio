@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">Blockchain medical report storage</title>
+  <desc id="desc">A protected medical report connected to a chain of secure data blocks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1838"/><stop offset="1" stop-color="#142f53"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#4b87ff"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="900" height="480" fill="url(#bg)"/><circle cx="700" cy="150" r="160" fill="#00f5ff" opacity=".13" filter="url(#glow)"/>
+  <g fill="none" stroke="#00dfff" stroke-opacity=".4" stroke-width="3"><path d="M315 240h92M495 240h92M676 240h42"/><path d="m392 232 12 8-12 8m92-16 12 8-12 8m92-16 12 8-12 8"/></g>
+  <g transform="translate(104 142)"><rect width="210" height="196" rx="20" fill="#0a1028" stroke="#00f5ff" stroke-opacity=".55" stroke-width="2"/><rect x="25" y="24" width="58" height="58" rx="16" fill="url(#accent)"/><path d="M54 36v34M37 53h34" stroke="#071126" stroke-width="8" stroke-linecap="round"/><rect x="101" y="36" width="82" height="8" rx="4" fill="#e8e8f5"/><rect x="101" y="55" width="62" height="7" rx="4" fill="#8888aa"/><path d="M27 105h155M27 127h133M27 149h145" stroke="#9ea9c9" stroke-opacity=".7" stroke-width="7" stroke-linecap="round"/><rect x="27" y="169" width="78" height="14" rx="7" fill="#00f5ff" opacity=".72"/></g>
+  <g transform="translate(407 174)"><rect width="88" height="132" rx="16" fill="#101c3a" stroke="#00f5ff" stroke-opacity=".65" stroke-width="2"/><path d="M24 36h40M24 55h40M24 74h28" stroke="#aab7d3" stroke-width="6" stroke-linecap="round"/><circle cx="44" cy="105" r="12" fill="url(#accent)"/><path d="m39 105 4 4 7-9" fill="none" stroke="#071126" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g transform="translate(586 174)"><rect width="88" height="132" rx="16" fill="#101c3a" stroke="#b44fff" stroke-opacity=".75" stroke-width="2"/><path d="M24 36h40M24 55h40M24 74h28" stroke="#aab7d3" stroke-width="6" stroke-linecap="round"/><path d="M44 93v24m-12-12h24" stroke="#b44fff" stroke-width="5" stroke-linecap="round"/></g>
+  <g transform="translate(718 199)"><path d="M36 0 67 12v26c0 22-14 37-31 47C19 75 5 60 5 38V12L36 0Z" fill="#102444" stroke="#00f5ff" stroke-width="3"/><path d="m22 40 10 10 20-23" fill="none" stroke="#00f5ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="106" y="390" fill="#e8e8f5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">SECURE MEDICAL RECORDS</text>
+</svg>
